@@ -1,13 +1,3 @@
-
-@font-face {
-  font-family: 'Lexend';
-  src: url('Lexend/Lexend-VariableFont_wght.ttf');
-}
-@font-face {
-  font-family: 'Lexend Deca';
-  src: url('Lexend_Deca/LexendDeca-VariableFont_wght.ttf');
-}
-
 body {
   overflow-x: hidden;
   font-family: 'Lexend Deca', sans-serif;
